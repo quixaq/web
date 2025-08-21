@@ -13,7 +13,7 @@ export default function Home() {
           <div className={"description"}>
               Hewwo there floof :3 I am a frontend and backend developer, a furry and a gamer. <br/>
               My fursona is a cute red protogen as you can see on the pfp :3 <br/> <br/>
-              <h6>he/him | gay</h6>
+              <h6>she/her</h6>
           </div>
           <div className={"icons"}>
               <div className={"icon"}>
